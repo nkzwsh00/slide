@@ -50,6 +50,8 @@ theme: gaia
 # 具体例としては
 
 - 右下
+- https://www.youtube.com/watch?v=Smu3gDL8KRE
+  ![width:840px height:374px](./img.png)
 
 ---
 
@@ -96,6 +98,8 @@ LT メモ
 - どうつなぐか考える
 
 開発生産性カンファの雑感
+
+https://app.diagrams.net/
 
 理解に時間をかける。
 https://note.com/simplearchitect/n/nbecdf4a687c0
