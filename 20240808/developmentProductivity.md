@@ -24,44 +24,43 @@ theme: gaia
 いろんなポジションの人がそれぞれの視点で「開発生産性」を語っててカオスだった
 →4 象限でまとめてみる
 
----
-
-# 図!
-
-- 画像
-
-縦軸 経営・マネジメントレイヤーか開発レイヤーか
-横軸 Accelerate を踏まえて DORA や 4keys に関連する話をするか「開発生産性」という単語一般からテーマを展開するか
+[Timetable](https://dev-productivity-con.findy-code.io/2024#timetable)
 
 ---
 
-# 具体例 : 右上
+# 4 象限!
 
--
-
----
-
-# 具体例 : 右下
-
-- 右下
-- 「価値創造と開発生産性」
-- https://youtu.be/86lSJHpkIOE
-
-- 「freee におけるスモールスタートを意識した開発生産性向上の実践事例」
-- https://youtu.be/Smu3gDL8KRE
-  ![width:840px height:374px](./img.png)
+- 縦軸
+  - 上は代表取締役社長、VPoE、CTO、EM、下はエンジニアまで
+- 横軸
+  - 「Lean と DevOps の科学」 を踏まえて DORA や 4keys に関連する話をするか「開発生産性」という単語一般からテーマを展開するか
 
 ---
 
-# 具体例 : 左下
+# 『「開発生産性を上げる改善」って儲かるの？に答えられるようにする 』
 
--
+---"信頼"と"儲かる"を実現する開発生産性の改善---
+
+[slide リンク](https://speakerdeck.com/i35_267/is-development-productivity-profitable)
+https://youtu.be/ljOvTz-0avE
 
 ---
 
-# 具体例 : 左上
+# 『価値創造と開発生産性』
 
--
+- アジャイルコーチであり、CTO である吉羽龍太郎
+- 「開発生産性」が何を指すのかを深堀りした上で、この単語とどう付き合っていくべきなのかを整理した
+  - 「開発生産性」に取り組む「目的」そのものを考えるべき
+
+[slide リンク](https://www.ryuzee.com/contents/blog/14592)
+https://youtu.be/86lSJHpkIOE
+
+---
+
+# 『開発生産性の観点から考える自動テスト』
+
+[slide リンク](https://speakerdeck.com/twada/automated-test-knowledge-from-savanna-202406-findy-dev-prod-con-edition)
+https://youtu.be/ueqjypYJnxk
 
 ---
 
