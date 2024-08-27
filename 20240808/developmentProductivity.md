@@ -35,29 +35,33 @@ theme: gaia
 
 ---
 
-# 具体例としては
+# 具体例 : 右上
 
-- 右上
-
----
-
-# 具体例としては
-
-- 左上
+-
 
 ---
 
-# 具体例としては
+# 具体例 : 右下
 
 - 右下
-- https://www.youtube.com/watch?v=Smu3gDL8KRE
+- 「価値創造と開発生産性」
+- https://youtu.be/86lSJHpkIOE
+
+- 「freee におけるスモールスタートを意識した開発生産性向上の実践事例」
+- https://youtu.be/Smu3gDL8KRE
   ![width:840px height:374px](./img.png)
 
 ---
 
-# 具体例としては
+# 具体例 : 左下
 
-- 左下
+-
+
+---
+
+# 具体例 : 左上
+
+-
 
 ---
 
