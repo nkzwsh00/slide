@@ -1,60 +1,210 @@
 ---
-# You can also start simply with 'default'
-theme: Seriph
-# random image from a curated Unsplash collection by Anthony
-# like them? see https://unsplash.com/collections/94734566/slidev
-# background: https://cover.sli.dev
-# some information about your slides (markdown enabled)
-title: LT is 5m
-info: |
-  ## LT
-# apply unocss classes to the current slide
-class: text-center
-# https://sli.dev/features/drawing
-drawings:
-  persist: false
-  enabled: false
-# slide transition: https://sli.dev/guide/animations.html#slide-transitions
-transition: slide-left
-# enable MDC Syntax: https://sli.dev/features/mdc
-mdc: true
+theme: apple-basic
+colorSchema: light
+class: bg-700
+canvasWidth: 980
 ---
 
-# LT は 5分
-
-Presentation slides for developers
-
-<!--
-The last comment block of each slide will be treated as slide notes. It will be visible and editable in Presenter Mode along with the slide. [Read more in the docs](https://sli.dev/guide/syntax.html#notes)
--->
+LTは5分
+<div class="grid grid-cols-2 gap-2">
+<div>
+o
+</div>
+<div>
+o
+</div>
+</div>
 
 ---
-transition: fade-out
+
+
+あいうえお
+
 ---
 
-# What is Slidev?
+# 興味
 
-Slidev is a slides maker and presenter designed for developers, consist of the following features
+[興味・専門分野]
 
-- 📝 **Text-based** - focus on the content with Markdown, and then style them later
-- 🎨 **Themable** - themes can be shared and re-used as npm packages
-- 🧑‍💻 **Developer Friendly** - code highlighting, live coding with autocompletion
-- 🤹 **Interactive** - embed Vue components to enhance your expressions
-- 🎥 **Recording** - built-in recording and camera view
-- 📤 **Portable** - export to PDF, PPTX, PNGs, or even a hostable SPA
-- 🛠 **Hackable** - virtually anything that's possible on a webpage is possible in Slidev
-<br>
-<br>
+---
 
-Read more about [Why Slidev?](https://sli.dev/guide/why)
+# 好きなこと
 
-<!--
-You can have `style` tag in markdown to override the style for the current page.
-Learn more: https://sli.dev/features/slide-scope-style
--->
+[趣味など]
 
+---
 
+# **LTは5分とは**
 
-<!--
-Here is another comment.
--->
+---
+
+# LT
+
+Lightning Talk
+
+---
+
+# 5分の
+
+短いプレゼン
+
+---
+
+# 目的
+
+短時間で伝える
+
+---
+
+# **from: @941 lt**
+
+---
+
+# @941
+
+LT文化を広めた
+
+---
+
+# シンプル
+
+ルールが簡単
+
+---
+
+# スピード
+
+すぐに終わる
+
+---
+
+# **歴史**
+
+---
+
+# 始まり
+
+2000年代初頭
+
+---
+
+# IT業界
+
+カンファレンスで普及
+
+---
+
+# **マーク・ドミヌス**
+
+---
+
+# Perl
+
+伝説的存在
+
+---
+
+# 初の
+
+ライトニングトーク
+---
+
+# **自己紹介**
+- a
+- a
+- a
+
+---
+
+# 名前
+
+[あなたの名前]
+
+---
+
+# 興味
+
+[興味・専門分野]
+
+---
+
+# 好きなこと
+
+[趣味など]
+
+---
+
+# **LTは5分とは**
+
+---
+
+# LT
+
+Lightning Talk
+
+---
+
+# 5分の
+
+短いプレゼン
+
+---
+
+# 目的
+
+短時間で伝える
+
+---
+
+# **from: @941 lt**
+
+---
+
+# @941
+
+LT文化を広めた
+
+---
+
+# シンプル
+
+ルールが簡単
+
+---
+
+# スピード
+
+すぐに終わる
+
+---
+
+# **歴史**
+
+---
+
+# 始まり
+
+2000年代初頭
+
+---
+
+# IT業界
+
+カンファレンスで普及
+
+---
+
+# **マーク・ドミヌス**
+
+---
+
+# Perl
+
+伝説的存在
+
+---
+
+# 初の
+
+ライトニングトーク
+
